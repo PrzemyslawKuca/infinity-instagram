@@ -1,0 +1,56 @@
+.post-bottom {
+    text-align: left;
+}
+
+.post-bottom .icons-bar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-bottom .icons-bar * {
+    font-size: 24px;
+    padding: 4px 4px 0 4px;
+}
+
+.post-bottom .description {
+    padding: 8px;
+}
+
+.post-bottom .description .likes {
+    font-size: 14px;
+}
+
+.post-bottom .description b {
+    margin-right: 8px;
+}
+
+.post-bottom .comment {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #dbdbdb;
+}
+
+.post-bottom .comment .icon {
+    font-size: 24px;
+    margin-right: 8px;
+}
+
+.post-bottom .comment textarea {
+    border: 0;
+    height: 18px;
+    outline: 0;
+    padding: 2px;
+    resize: none;
+    width: 100%;
+}
+
+.post-bottom .comment button {
+    opacity: .4;
+    border: 0;
+    color: #0095f6;
+    display: inline-block;
+    padding: 0;
+    position: relative;
+    background-color: transparent;
+}

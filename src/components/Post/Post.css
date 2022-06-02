@@ -1,0 +1,13 @@
+.post {
+    border-radius: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #dbdbdb;
+    width: 470px;
+    background-color: #ffffff;
+}
+
+@media (max-width: 600px) {
+    .post {
+        width: 85%;
+    }
+}

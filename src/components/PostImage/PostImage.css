@@ -1,0 +1,11 @@
+.post-image .image-placeholder {
+    width: 470px;
+    aspect-ratio: 1 / 1;
+    background-color: #e7e7e7;
+}
+
+@media (max-width: 600px) {
+    .post-image img, .post-image .image-placeholder {
+        width: 100%;
+    }
+}
