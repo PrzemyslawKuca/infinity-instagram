@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![PREVIEW](./doc/demo.gif)
 
+Demo: https://infinity-instagram.herokuapp.com
+
 Keep scrolling...
 
 
