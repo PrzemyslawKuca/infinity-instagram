@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![PREVIEW](./docs/preview.gif)
+![PREVIEW](./doc/preview.gif)
 
 Keep scrolling...
 
